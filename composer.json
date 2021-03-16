@@ -1,0 +1,17 @@
+{
+  "name": "mysql/mysql-my",
+  "description": "my test mysql connect",
+  "authors": [
+    {
+      "name": "Libray",
+      "email": "2962360744@qq.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-0": {
+      "Monolog": "src"
+    }
+  }
+}
